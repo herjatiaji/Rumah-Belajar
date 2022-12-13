@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_label_kelas.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_label_kelas.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_bab3.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\logo_bab3.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rules.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\rules.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_materi.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_detail_materi.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_layout_white.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\bg_layout_white.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quiz.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\quiz.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_bg.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\header_bg.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kelas.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_kelas.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_question.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\item_question.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_label_quiz.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_label_quiz.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rule.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_rule.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selected.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\selected.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_label_kelas.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\item_label_kelas.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_history.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\history.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unselected.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\unselected.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_quiz_local.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\quiz_local.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_rules.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\slide_rules.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_materi.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\book.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_history.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_bab2.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\logo_bab2.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_light.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\font\\poppins_light.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_coba.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\item_coba.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_bab6.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\logo_bab6.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz_local.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_quiz_local.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_final_result.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_final_result.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_bold.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\font\\poppins_bold.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_question.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_add_question.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\logout.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kelas.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\kelas.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_label.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_add_label.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_question1.gif.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\question1.gif"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_kelas.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\item_kelas.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_math.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\math.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_bab5.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\logo_bab5.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_bab1.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\logo_bab1.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tutorial.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\tutorial.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_label_quiz.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\item_label_quiz.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noted.gif.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\noted.gif"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_question.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_question.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_correct.gif.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\correct.gif"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_quiz.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_detail_quiz.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blackboard.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\blackboard.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_incorrect.gif.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\incorrect.gif"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_password.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_edit_password.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_bg.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\home_bg.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\icon.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_keys.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\keys.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_bab7.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\logo_bab7.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_worldwide.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\worldwide.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_math_quiz.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\layout\\activity_math_quiz.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_image.xml.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable\\splash_image.xml"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_bab4.png.flat",
+        "source": "D:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\src\\main\\res\\drawable-v24\\logo_bab4.png"
+    }
+]

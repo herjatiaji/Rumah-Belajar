@@ -1,0 +1,175 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.rumahbelajar"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:8:5-64:19
+15        android:allowBackup="true"
+15-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\921bb8a76696e0e3bfadb1ba73754521\core-1.8.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="Rumah Belajar"
+19-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:11:9-38
+20        android:roundIcon="@mipmap/ic_launcher"
+20-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:12:9-48
+21        android:supportsRtl="true"
+21-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.QuizForFun" >
+23-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:14:9-48
+24        <activity
+24-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:15:9-17:40
+25            android:name="com.example.rumahbelajar.kelas.KelasActivity"
+25-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:16:13-48
+26            android:exported="false" />
+26-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:17:13-37
+27        <activity
+27-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:18:9-20:40
+28            android:name="com.example.rumahbelajar.kelas.LabelKelasActivity"
+28-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:19:13-53
+29            android:exported="false" />
+29-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:20:13-37
+30        <activity
+30-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:21:9-23:40
+31            android:name="com.example.rumahbelajar.quiz.QuizLocalActivity"
+31-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:22:13-51
+32            android:exported="false" />
+32-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:23:13-37
+33        <activity
+33-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:24:9-26:40
+34            android:name="com.example.rumahbelajar.materi.DetailMateriActivity"
+34-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:25:13-56
+35            android:exported="false" />
+35-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:26:13-37
+36        <activity
+36-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:27:9-29:40
+37            android:name="com.example.rumahbelajar.materi.MateriActivity"
+37-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:28:13-50
+38            android:exported="false" />
+38-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:29:13-37
+39        <activity
+39-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:30:9-32:40
+40            android:name="com.example.rumahbelajar.login.LoginActivity"
+40-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:31:13-48
+41            android:exported="false" />
+41-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:32:13-37
+42        <activity android:name="com.example.rumahbelajar.quiz.DetailQuizActivity" />
+42-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:33:9-61
+42-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:33:19-58
+43        <activity
+43-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:34:9-36:40
+44            android:name="com.example.rumahbelajar.quiz.AddQuestionActivity"
+44-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:35:13-53
+45            android:exported="false" />
+45-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:36:13-37
+46        <activity
+46-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:37:9-39:40
+47            android:name="com.example.rumahbelajar.quiz.AddLabelActivity"
+47-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:38:13-50
+48            android:exported="false" />
+48-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:39:13-37
+49        <activity android:name="com.example.rumahbelajar.QuestionActivity" />
+49-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:40:9-54
+49-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:40:19-51
+50        <activity android:name="com.example.rumahbelajar.FinalResultActivity" />
+50-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:41:9-57
+50-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:41:19-54
+51        <activity android:name="com.example.rumahbelajar.MathQuizActivity" />
+51-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:42:9-54
+51-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:42:19-51
+52        <activity android:name="com.example.rumahbelajar.EditPasswordActivity" />
+52-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:43:9-58
+52-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:43:19-55
+53        <activity android:name="com.example.rumahbelajar.HistoryActivity" />
+53-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:44:9-53
+53-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:44:19-50
+54        <activity android:name="com.example.rumahbelajar.login.TutorialActivity" />
+54-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:45:9-60
+54-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:45:19-57
+55        <activity android:name="com.example.rumahbelajar.quiz.LabelQuizActivity" />
+55-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:46:9-60
+55-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:46:19-57
+56        <activity android:name="com.example.rumahbelajar.login.RegisterActivity" />
+56-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:47:9-60
+56-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:47:19-57
+57        <activity
+57-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:48:9-58:20
+58            android:name="com.example.rumahbelajar.login.SplashActivity"
+58-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:49:13-49
+59            android:exported="true" >
+59-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:50:13-36
+60
+61            <!-- android:theme="@style/splashScreenTheme"> -->
+62            <intent-filter>
+62-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:53:13-57:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:54:17-69
+63-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:54:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:56:17-77
+65-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:56:27-74
+66            </intent-filter>
+67        </activity>
+68        <activity android:name="com.example.rumahbelajar.MainActivity" />
+68-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:59:9-50
+68-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:59:19-47
+69
+70        <meta-data
+70-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:61:9-63:57
+71            android:name="preloaded_fonts"
+71-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:62:13-43
+72            android:resource="@array/preloaded_fonts" />
+72-->D:\UGM\Semester 3\Proyek Aplikasi Dasar 1\Quiz-App-main\app\src\main\AndroidManifest.xml:63:13-54
+73
+74        <service
+74-->[androidx.room:room-runtime:2.2.5] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\eb7b959c56e83f42bc577bfe7fb619e1\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+75            android:name="androidx.room.MultiInstanceInvalidationService"
+75-->[androidx.room:room-runtime:2.2.5] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\eb7b959c56e83f42bc577bfe7fb619e1\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+76            android:directBootAware="true"
+76-->[androidx.room:room-runtime:2.2.5] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\eb7b959c56e83f42bc577bfe7fb619e1\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+77            android:exported="false" />
+77-->[androidx.room:room-runtime:2.2.5] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\eb7b959c56e83f42bc577bfe7fb619e1\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+78
+79        <provider
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\888b31b6b6972c61ca6b2e02c6b24c5c\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\888b31b6b6972c61ca6b2e02c6b24c5c\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+81            android:authorities="com.example.rumahbelajar.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\888b31b6b6972c61ca6b2e02c6b24c5c\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\888b31b6b6972c61ca6b2e02c6b24c5c\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\888b31b6b6972c61ca6b2e02c6b24c5c\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\888b31b6b6972c61ca6b2e02c6b24c5c\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\888b31b6b6972c61ca6b2e02c6b24c5c\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8bbd4875045ad3f53185ecd48046fe1f\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8bbd4875045ad3f53185ecd48046fe1f\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8bbd4875045ad3f53185ecd48046fe1f\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+89        </provider>
+90    </application>
+91
+92</manifest>

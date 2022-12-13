@@ -1,0 +1,10 @@
+#Sun Dec 11 08:59:34 ICT 2022
+base.2=D\:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+path.2=classes2.dex
+base.1=D\:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=D\:\\UGM\\Semester 3\\Proyek Aplikasi Dasar 1\\Quiz-App-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rumahbelajar">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Rumah Belajar"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QuizForFun">
+        <activity
+            android:name=".kelas.KelasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kelas.LabelKelasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".quiz.QuizLocalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".materi.DetailMateriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".materi.MateriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".login.LoginActivity"
+            android:exported="false" />
+        <activity android:name=".quiz.DetailQuizActivity" />
+        <activity
+            android:name=".quiz.AddQuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".quiz.AddLabelActivity"
+            android:exported="false" />
+        <activity android:name=".QuestionActivity" />
+        <activity android:name=".FinalResultActivity" />
+        <activity android:name=".MathQuizActivity" />
+        <activity android:name=".EditPasswordActivity" />
+        <activity android:name=".HistoryActivity" />
+        <activity android:name=".login.TutorialActivity" />
+        <activity android:name=".quiz.LabelQuizActivity" />
+        <activity android:name=".login.RegisterActivity" />
+        <activity
+            android:name=".login.SplashActivity"
+            android:exported="true">
+
+            <!-- android:theme="@style/splashScreenTheme"> -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

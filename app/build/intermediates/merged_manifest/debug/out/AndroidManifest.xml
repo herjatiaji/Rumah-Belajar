@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rumahbelajar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="22"
+        android:targetSdkVersion="32" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Rumah Belajar"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.QuizForFun" >
+        <activity
+            android:name="com.example.rumahbelajar.kelas.KelasActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.rumahbelajar.kelas.LabelKelasActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.rumahbelajar.quiz.QuizLocalActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.rumahbelajar.materi.DetailMateriActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.rumahbelajar.materi.MateriActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.rumahbelajar.login.LoginActivity"
+            android:exported="false" />
+        <activity android:name="com.example.rumahbelajar.quiz.DetailQuizActivity" />
+        <activity
+            android:name="com.example.rumahbelajar.quiz.AddQuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.rumahbelajar.quiz.AddLabelActivity"
+            android:exported="false" />
+        <activity android:name="com.example.rumahbelajar.QuestionActivity" />
+        <activity android:name="com.example.rumahbelajar.FinalResultActivity" />
+        <activity android:name="com.example.rumahbelajar.MathQuizActivity" />
+        <activity android:name="com.example.rumahbelajar.EditPasswordActivity" />
+        <activity android:name="com.example.rumahbelajar.HistoryActivity" />
+        <activity android:name="com.example.rumahbelajar.login.TutorialActivity" />
+        <activity android:name="com.example.rumahbelajar.quiz.LabelQuizActivity" />
+        <activity android:name="com.example.rumahbelajar.login.RegisterActivity" />
+        <activity
+            android:name="com.example.rumahbelajar.login.SplashActivity"
+            android:exported="true" >
+
+            <!-- android:theme="@style/splashScreenTheme"> -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.rumahbelajar.MainActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.rumahbelajar.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>
